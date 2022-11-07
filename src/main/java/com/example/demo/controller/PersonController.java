@@ -12,7 +12,7 @@ import java.util.Date;
 import java.util.List;
 
 @RestController
-@RequestMapping (value = "/Persons")
+@RequestMapping (value = "/persons")
 public class PersonController {
 
     @Autowired
